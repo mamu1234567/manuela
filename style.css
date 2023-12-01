@@ -30,7 +30,11 @@ padding: 0;}
        align-items: center;
 }
 
-.escola-imagem {
+.cabecalho-imagem {
+    width: 55%;
+}
+
+.estudante-imagem {
     width: 25%;
 }
 
